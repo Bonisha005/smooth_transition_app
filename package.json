@@ -3,7 +3,7 @@
   "name": "smooth-transition-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Bonisha005.github.io/smooth_transition_app"
+  "homepage": "https://Bonisha005.github.io/smooth_transition_app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
